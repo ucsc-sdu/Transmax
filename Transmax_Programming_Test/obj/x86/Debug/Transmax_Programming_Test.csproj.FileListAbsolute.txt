@@ -1,0 +1,9 @@
+c:\users\chamara\documents\visual studio 2010\Projects\Transmax_Programming_Test\Transmax_Programming_Test\bin\Debug\Transmax_Programming_Test.exe
+c:\users\chamara\documents\visual studio 2010\Projects\Transmax_Programming_Test\Transmax_Programming_Test\bin\Debug\Transmax_Programming_Test.pdb
+c:\users\chamara\documents\visual studio 2010\Projects\Transmax_Programming_Test\Transmax_Programming_Test\obj\x86\Debug\Transmax_Programming_Test.MainForm.resources
+c:\users\chamara\documents\visual studio 2010\Projects\Transmax_Programming_Test\Transmax_Programming_Test\obj\x86\Debug\Transmax_Programming_Test.Properties.Resources.resources
+c:\users\chamara\documents\visual studio 2010\Projects\Transmax_Programming_Test\Transmax_Programming_Test\obj\x86\Debug\Transmax_Programming_Test.csproj.GenerateResource.Cache
+c:\users\chamara\documents\visual studio 2010\Projects\Transmax_Programming_Test\Transmax_Programming_Test\obj\x86\Debug\Transmax_Programming_Test.exe
+c:\users\chamara\documents\visual studio 2010\Projects\Transmax_Programming_Test\Transmax_Programming_Test\obj\x86\Debug\Transmax_Programming_Test.pdb
+C:\Users\Chamara\Documents\Visual Studio 2010\Projects\Transmax_Programming_Test - Copy\Transmax_Programming_Test\obj\x86\Debug\Transmax_Programming_Test.exe
+C:\Users\Chamara\Documents\Visual Studio 2010\Projects\Transmax_Programming_Test - Copy\Transmax_Programming_Test\obj\x86\Debug\Transmax_Programming_Test.pdb
